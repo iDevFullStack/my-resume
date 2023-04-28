@@ -1,0 +1,321 @@
+{
+  "main": {
+    "name":"Shyamsunder Soni",
+    "description":"I am an IT Professional with 5+ years of experience (Full Stack, MEAN, MERN) in providing quality solutions to complex business problems within scope, budget and tight schedules.",
+    "image":"profilepic.jpg",
+    "bio":"I have explicit knowledge of Mobile device architectures and Mobile development platforms, framework APIs like GPS, Web-Service, Location, Camera, Notifications, Map API, Shared Preferences, Cloud Firestore/Firebase/Functions, SQLite, Push Notifications. Experience in working on social features like Facebook SDK, Twitter API integration.",
+    "contactmessage":"CONTACT ME",
+    "email": "idevmean@gmail.com",
+    "phone": "+91 96716 82299",
+    "github":"https://github.com/iDevFullStack",
+    "project":"https://github.com/iDevFullStack",
+    "address":{
+      "street":"Sector 74, Sahibzada Ajit Singh Nagar",
+      "city":"Mohali",
+      "state":"Punjab",
+      "zip": "160071"
+    },
+    "website": "https://github.com/iDevFullStack",
+    "resumedownload":"https://drive.google.com/file/d/10_WbuOo4v9pVJ9xJLU2jcyYDE8qMUwDJ/view?usp=share_link",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/iDevShyam",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/iDevShyam",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/iDevShyam",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/__imshyam",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/iDevFullStack",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"MDU",
+        "degree":"Bachelor of Technology",
+        "graduated":"March 2017",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Softuvo Solutions Pvt. Ltd.",
+        "title":"Angular/Full Stack Developer",
+        "years":"MAR 2021 - PRESENT",
+        "description":"● Requirement Gathering and Analysis \n● Programming, designing, and creating the architectures of Website Designing and Development Projects. \n● Participate in peer-reviews of solution designs and related code. \n● Prepare reports, manuals and other documentation on the status, operation, and maintenance of software. \n● Proficient with Node and Angular \n● Hands-on experience with JavaScript frameworks and libraries such as Angular JS, React \n● Experience with Jquery and Chrome Dev Tools \n● Knowledge of modern web application design, responsive design, or mobile hybrid design \n● Source control (preferably Git Hub) \n● Use of asynchronous data send and retrieval patterns to develop rich in-browser user interfaces \n● Expert level problem solving skills"
+      },
+      {
+        "company":"Satguru Technologies",
+        "title":"Software Engineer",
+        "years":"SEP 2017 - MAR 2021",
+        "description":"● Involved in a full project development life cycle. \n● Refined innovative user interface solutions. \n● Review code in existing applications and perform testing and debugging."
+      },
+      {
+        "company":"Sachtech Solution Pvt. Ltd",
+        "title":"PHP Developer",
+        "years":"MAR 2017 - AUG 2017",
+        "description":"● Involved in a full project development life cycle. \n● Refined innovative user interface solutions."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"Ionic",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"60%"
+      },
+      {
+        "name":"Firebase",
+        "level":"70%"
+      },
+      {
+        "name":"Mongoose",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Justo Delivery",
+        "category":"Justo Delivery is White Glove Delivery Service that provides specialized services for detailed furniture deliveries. Our highly trained, equipped staff and delivery teams consistently exceed customer expectations, using professional vehicles and equipment. Along with time-specific deliveries, we also offer storage and consolidations.",
+        "image":"01.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=dev.justodelivery2.sgtech&hl=en&gl=US",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/justo-delivery/id1506703285",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Justo Delivery Driver",
+        "category":"In Justo Delivery Driver Application Drivers can easily manage their list of deliveries assigned to them and easily map the destination.",
+        "image":"02.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=dev.justodeliverydriver.sgtech&hl=en&gl=US",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/justo-delivery-driver/id1524147815",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Gurbani School",
+        "category":"School of Gurbani - A powerful Gurbani Search Engine that allows you to search, listen and read the Shabad.",
+        "image":"03.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=dev.schoolofgurbani.sgtech&hl=en&gl=US",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/gurbani-school/id1526820129",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Alaptaw",
+        "category":"Alaptaw is an online Salon booking platform in the form of a Web and Mobile application. It provides a location-based listing of salons",
+        "image":"04.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=shm.sgtech.alaptaw&hl=en&gl=US",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/alaptaw/id1447874387",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Schocom",
+        "category":"Scholarship community is a fundraising mobile application.",
+        "image":"05.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.schocom.app&hl=en&gl=US",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/schocom/id1462886700",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Indo German",
+        "category":"This application is used for creating Estimates, Delivery chalans, and repair memos of Micro Surgical Instruments made by Indo German and GSM Surgicals",
+        "image":"06.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.indogerman.sgtech",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/indo-german/id1508754767",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Houseace",
+        "category":"Quick Online Quote, Project Manager Match",
+        "image":"07.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=dev.houseace.sgtech",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/houseace/id1491306479",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Styletronics",
+        "category":"Styletronics is an online e-commerce platform in the form of a web and mobile application where we can Rent, Sell or Purchase clothes and clothing accessories and manage the product records on application.",
+        "image":"08.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=dev.styletronics.sgtech",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/styletronics/id1544703772",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Synchron",
+        "category":"Synchron (Synchronised Business Services Pty Ltd) is a financial planning business with around 430 Advisers.",
+        "image":"09.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.synchron.app",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/synchron-prof-development/id1436570571",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Synchron Admin",
+        "category":"Synchron Admin scanner app to scan bar/QR code generated from the adviser number entered in the CMS. This is to be used to scan attendees in and out at events.",
+        "image":"10.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.sgtech.synchronadmin",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/synchron-admin/id1451193406",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Uhangry",
+        "category":"List your restaurants and let people book online from the Hangry portal",
+        "image":"11.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.thehangary.app",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://apps.apple.com/in/app/uhangry/id1666355485",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"Uhangry Merchant",
+        "category":"List your restaurants and let people book online from the Hangry portal",
+        "image":"12.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.thehangarymerchant.app",
+          "className": "fa fa-android"
+        }]
+      },
+      {
+        "title":"My Fortune",
+        "category":"My Fortune – Race to Financial Freedom (Australian Edition) is a single player simulator board game in which you select a starting salary and progress along the board following the requirements of the square landed on.",
+        "image":"13.webp",
+        "url": [{
+          "link": "https://apps.apple.com/us/app/my-fortune/id1454651011",
+          "className": "fa fa-apple"
+        }]
+      },
+      {
+        "title":"GetLook",
+        "category":"GetLook is one of the Best Home Salon and Spa Services which brings Best Beauty. Professionals at your home and provides beauty services at home.",
+        "image":"14.webp",
+        "url": [{
+          "link": "https://getlook.in",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"NextepEasy",
+        "category":"neXtep easy gives you the one best thing to do, right now, to improve your business future.",
+        "image":"15.jpeg",
+        "url": [{
+          "link": "https://nextepeasy.com/",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"WarpSpeedTaxi Driver",
+        "category":"WarpSpeed Taxi is created by warpspeedtaxi inc and the idea behind it is to provide a scalable and affordable Ride-hailing solution not just in the US but all over the world. ",
+        "image":"16.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.wrapspeedtaxi.driver",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://warpspeedtaxi.com",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"WarpSpeedTaxi Rider",
+        "category":"WarpSpeed Taxi is created by warpspeedtaxi inc and the idea behind it is to provide a scalable and affordable Ride-hailing solution not just in the US but all over the world. ",
+        "image":"17.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.wrapspeedtaxi.rider",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://warpspeedtaxi.com",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"WDG CONSTRUCTION",
+        "category":"WDG is the world’s fastest employment service for contractors and construction workers.",
+        "image":"18.png",
+        "url": [{
+          "link": "https://play.google.com/store/apps/details?id=com.wdg.net",
+          "className": "fa fa-android"
+        }, {
+          "link": "https://appwdg.com/",
+          "className": "fa fa-globe"
+        }]
+      }
+    ]
+  }
+}
