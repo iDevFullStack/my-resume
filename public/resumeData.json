@@ -122,6 +122,9 @@
         }, {
           "link": "https://apps.apple.com/in/app/justo-delivery/id1506703285",
           "className": "fa fa-apple"
+        }, {
+          "link": "https://www.justodelivery.com",
+          "className": "fa fa-globe"
         }]
       },
       {
@@ -158,6 +161,9 @@
         }, {
           "link": "https://apps.apple.com/in/app/alaptaw/id1447874387",
           "className": "fa fa-apple"
+        }, {
+          "link": "https://alaptaw.com",
+          "className": "fa fa-globe"
         }]
       },
       {
@@ -194,6 +200,9 @@
         }, {
           "link": "https://apps.apple.com/in/app/houseace/id1491306479",
           "className": "fa fa-apple"
+        }, {
+          "link": "https://www.houseace.com.au/",
+          "className": "fa fa-globe"
         }]
       },
       {
@@ -274,9 +283,9 @@
       {
         "title":"NextepEasy",
         "category":"neXtep easy gives you the one best thing to do, right now, to improve your business future.",
-        "image":"15.jpeg",
+        "image":"15.png",
         "url": [{
-          "link": "https://nextepeasy.com/",
+          "link": "https://nextepeasy.com",
           "className": "fa fa-globe"
         }]
       },
@@ -312,7 +321,43 @@
           "link": "https://play.google.com/store/apps/details?id=com.wdg.net",
           "className": "fa fa-android"
         }, {
-          "link": "https://appwdg.com/",
+          "link": "https://appwdg.com",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"Crosspay",
+        "category":"Crosspay is a UK based digital payments company that allows individuals and corporates to send payments overseas for personal and business needs.",
+        "image":"19.webp",
+        "url": [{
+          "link": "https://crosspaymt.com",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"ClicknCheck",
+        "category":"ClicknCheck is designed to automate and professionally manage pre-employment or existing workforce background verification checks across any industry, by replacing manual processes with intelligent automation.",
+        "image":"20.png",
+        "url": [{
+          "link": "https://clickncheck.co.za",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"Streamecart",
+        "category":"Experience the next generation of online shopping with streamEcart, a groundbreaking live shopping platform that supports In-video purchases, unique and customizable widgets, real-time analytics, and integration with other eCommerce platforms",
+        "image":"21.png",
+        "url": [{
+          "link": "https://streamecart.com",
+          "className": "fa fa-globe"
+        }]
+      },
+      {
+        "title":"GrayBridge",
+        "category":"Premier investment solutions for the future of finance",
+        "image":"22.png",
+        "url": [{
+          "link": "https://www.graybridge.finance",
           "className": "fa fa-globe"
         }]
       }

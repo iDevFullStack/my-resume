@@ -17,7 +17,7 @@ class Portfolio extends Component {
             <div className="project-title">
               <span>{projects.title}</span>
               {projects.url.map(u => {
-                return (<><a href={u.link} target={"_blank"}><i className={u.className}></i></a> {" "}</>)
+                return (<><a href={u.link} target={"_blank"} rel="noreferrer"><i className={u.className}></i></a> {" "}</>)
               })}
             </div>
           </div>
